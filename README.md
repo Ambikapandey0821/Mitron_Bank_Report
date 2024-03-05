@@ -129,27 +129,41 @@ Following inferences can be drawn from the dashboard;
  Thus, higher number of customers are Married and Male.
            
 # Age Group 
+
 a) 25-34 - 1498
+
 b) 35-45 - 1273
+
 c) 21-24 - 691
+
 d) 45+ - 538
 
 Thus, higher number of customers are between the age of 25-34 and 35-45 Age Group.
 
 # City 
+
 a) Mumbai - 1078
+
 b) Chennai - 834
+
 c) Bengaluru- 751
+
 d) Delhi NCR - 744
+
 e) Hyderabad - 593
   
 Here we can see that Mumbai has the largest customer base and Hyderabad has the lowest customer base.
 
 # Occupation 
+
 a) Salaried IT Employees - 1294
+
 b) Salaried Other Employees - 893
+
 c) Freelancers- 784
+
 d) Business Owners - 630
+
 e) Government Employees - 399
 
 Here we can see that Salaried IT Employees are the largest customer base and Government Employees are the lowest customer base.
@@ -158,64 +172,105 @@ Here we can see that Salaried IT Employees are the largest customer base and Gov
  
 # Age Group
 a) 25-34 - 43.63%
+
 b) 35-45 - 46.74%
+
 c) 21-24 - 40.48%
+
 d) 45+ - 35.03%
  
-         Thus, Age Group of 35-45 has the highest Income utilisation. And Age Group 45+ has the lowest.
+Thus, Age Group of 35-45 has the highest Income utilisation. And Age Group 45+ has the lowest.
  
 # City 
 a) Mumbai - 51%
+
 b) Chennai - 31%
+
 c) Bengaluru- 44%
+
 d) Delhi NCR - 58%
+
 e) Hyderabad - 36%
+
 Thus, maximum Income utilisation is from Mumbai city and lowest from Chennai.
 
 # Occupation  
 a) Salaried IT Employees - 51%
+
 b) Salaried Other Employees - 41%
+
 c) Freelancers- 46%
+
 d) Business Owners - 33%
+
 e) Government Employees - 29%
+
 Thus, maximum Income utilisation is from Salaried IT Employees - 51% and lowest from Government Employees - 29%.
 
 # Gender
+
 a) Male - 45%
+
 b) Female - 40%
+
 Thus, maximum Income utilisation is from  Male - 45%.
  
 
 # Marital Status
+
 a) Married - 42.74%
+
 b) Single - 43.34%
+
 Thus, maximum Income utilisation is from  Sigle - 43.34%.
 
 # Category
+
 a) Bills - 19.94%
+
 b) Groceries - 16.08%
+
 c) Electronics - 14.99%
+
 d) Health & Wellness - 12.38%
+
 e) Travel - 11.16%
+
 f) Food - 8.25%
+
 g) Enternment - 7.17%
+
 h) Apparel - 6.46%
+
 i) Others - 3.03%
+
 Here we can see that Bills - 19.94% is the top most spend category followed by Groceries and Electronics.
 
 
 # Transaction Payment Type
+
 a) Credit Card - 40.89%
+
 b) UPI - 26.26%
+
 c) Debit Card - 22.56%
+
 d) Net Banking - 10.29%
+
 Here We can say that Credit Card is the Most preferred Payment type. And Net Banking as the lowest preffered Payment type.
 
 # Spend by Months in Millions
+
 a) May - 11.4 
+
 b) June - 13.7 
+
 c) July - 13.4 
+
 d) August - 16.7 
+
 e) September - 19.4
+
 f) October - 14.4
+
 Here we can say that maximum Spending is done on the month of September and least on May month.
