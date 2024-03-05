@@ -38,7 +38,7 @@ A card visual was used to represent count of customers.
 
 Following DAX expression was written for the same,
         
-    Male_Customer = CALCULATE(COUNTA(customer_id[customer_id]),FILTER(dim_customers,dim_customers[gender]="Male"))
+            Male_Customer = CALCULATE(COUNTA(customer_id[customer_id]),FILTER(dim_customers,dim_customers[gender]="Male"))
         
 A card visual was used to represent count of Male customers.
 
@@ -48,7 +48,7 @@ A card visual was used to represent count of Male customers.
 
 Following DAX expression was written for the same,
         
-   Female_Customer = CALCULATE(COUNTA(customer_id[customer_id]),FILTER(dim_customers,dim_customers[gender]="Female"))
+           Female_Customer = CALCULATE(COUNTA(customer_id[customer_id]),FILTER(dim_customers,dim_customers[gender]="Female"))
         
 A card visual was used to represent count of Female customers.
 
@@ -60,7 +60,7 @@ A card visual was used to represent count of Female customers.
 
 Following DAX expression was written for the same,
         
-   Income utilisation% = DIVIDE(SUM(fact_spends[spend]),SUM(dim_customers[income]))
+           Income utilisation% = DIVIDE(SUM(fact_spends[spend]),SUM(dim_customers[income]))
         
 A card visual was used to represent Income Utilisation percentage.
 
