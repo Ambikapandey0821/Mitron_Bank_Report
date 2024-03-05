@@ -1,5 +1,5 @@
 
-# Mitron Bank
+# Mitron Bank-Dashboard
 
 ### Dashboard Link : https://app.powerbi.com/links/QaJs83fSLb?ctid=9bb2360a-034c-4ecf-8228-aafe1a12b953&pbi_source=linkShare
 
@@ -116,19 +116,19 @@ Following inferences can be drawn from the dashboard;
 
  ### Demographic Analysis
 
-   Total Number of Customers - 4K
+ Total Number of Customers - 4K
 
-   Number of Customers (Male) - 2.6K
+ Number of Customers (Male) - 2.6K
 
-   Number of Customers (Female) - 1.4K
+ Number of Customers (Female) - 1.4K
    
-   Number of Married Customers - 3.14K (78.4%)
+ Number of Married Customers - 3.14K (78.4%)
 
-   Number of Unmarried Customers - 0.86K (21.6%)
+ Number of Unmarried Customers - 0.86K (21.6%)
 
  Thus, higher number of customers are Married and Male.
            
-###  Age Group 
+# Age Group 
     a) 25-34 - 1498
     b) 35-45 - 1273
     c) 21-24 - 691
@@ -136,7 +136,7 @@ Following inferences can be drawn from the dashboard;
 
         Thus, higher number of customers are between the age of 25-34 and 35-45 Age Group.
 
-###  City 
+# City 
     a) Mumbai - 1078
     b) Chennai - 834
     c) Bengaluru- 751
@@ -145,7 +145,7 @@ Following inferences can be drawn from the dashboard;
   
         Here we can see that Mumbai has the largest customer base and Hyderabad has the lowest customer base.
 
-###  Occupation 
+# Occupation 
     a) Salaried IT Employees - 1294
     b) Salaried Other Employees - 893
     c) Freelancers- 784
@@ -154,9 +154,9 @@ Following inferences can be drawn from the dashboard;
 
       Here we can see that Salaried IT Employees are the largest customer base and Government Employees are the lowest customer base.
 
- ### [2] Utilisation percentage
+ ## [2] Utilisation percentage
  
- ###  Age Group
+ # Age Group
     a) 25-34 - 43.63%
     b) 35-45 - 46.74%
     c) 21-24 - 40.48%
@@ -164,7 +164,7 @@ Following inferences can be drawn from the dashboard;
  
          Thus, Age Group of 35-45 has the highest Income utilisation. And Age Group 45+ has the lowest.
  
- ###  City 
+ # City 
     a) Mumbai - 51%
     b) Chennai - 31%
     c) Bengaluru- 44%
@@ -172,7 +172,7 @@ Following inferences can be drawn from the dashboard;
     e) Hyderabad - 36%
          Thus, maximum Income utilisation is from Mumbai city and lowest from Chennai.
 
-###   Occupation  
+# Occupation  
     a) Salaried IT Employees - 51%
     b) Salaried Other Employees - 41%
     c) Freelancers- 46%
@@ -180,18 +180,18 @@ Following inferences can be drawn from the dashboard;
     e) Government Employees - 29%
         Thus, maximum Income utilisation is from Salaried IT Employees - 51% and lowest from Government Employees - 29%.
 
-###  Gender
+# Gender
     a) Male - 45%
     b) Female - 40%
         Thus, maximum Income utilisation is from  Male - 45%.
  
 
-###   Marital Status
+# Marital Status
     a) Married - 42.74%
     b) Single - 43.34%
         Thus, maximum Income utilisation is from  Sigle - 43.34%.
 
-### Category
+# Category
     a) Bills - 19.94%
     b) Groceries - 16.08%
     c) Electronics - 14.99%
@@ -204,14 +204,14 @@ Following inferences can be drawn from the dashboard;
         Here we can see that Bills - 19.94% is the top most spend category followed by Groceries and Electronics.
 
 
-###  Transaction Payment Type
+# Transaction Payment Type
     a) Credit Card - 40.89%
     b) UPI - 26.26%
     c) Debit Card - 22.56%
     d) Net Banking - 10.29%
         Here We can say that Credit Card is the Most preferred Payment type. And Net Banking as the lowest preffered Payment type.
 
-### Spend by Months in Millions
+# Spend by Months in Millions
     a) May - 11.4 
     b) June - 13.7 
     c) July - 13.4 
